@@ -3,6 +3,10 @@ languageCode: en-us
 title: wolflytics
 theme: ["PaperMod"]
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false

@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on wolflytics</title>
-    <link>http://localhost:1313/wolflytics/tags/</link>
+    <link>https://realvuk.github.io/wolflytics/tags/</link>
     <description>Recent content in Tags on wolflytics</description>
     <image>
       <title>wolflytics</title>
-      <url>http://localhost:1313/wolflytics/images/site-preview.png</url>
-      <link>http://localhost:1313/wolflytics/images/site-preview.png</link>
+      <url>https://realvuk.github.io/wolflytics/images/site-preview.png</url>
+      <link>https://realvuk.github.io/wolflytics/images/site-preview.png</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/wolflytics/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://realvuk.github.io/wolflytics/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/wolflytics/tags/about/</link>
+      <link>https://realvuk.github.io/wolflytics/tags/about/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wolflytics/tags/about/</guid>
+      <guid>https://realvuk.github.io/wolflytics/tags/about/</guid>
       <description></description>
     </item>
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/wolflytics/tags/projects/</link>
+      <link>https://realvuk.github.io/wolflytics/tags/projects/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wolflytics/tags/projects/</guid>
+      <guid>https://realvuk.github.io/wolflytics/tags/projects/</guid>
       <description></description>
     </item>
     <item>
       <title>Society</title>
-      <link>http://localhost:1313/wolflytics/tags/society/</link>
+      <link>https://realvuk.github.io/wolflytics/tags/society/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wolflytics/tags/society/</guid>
+      <guid>https://realvuk.github.io/wolflytics/tags/society/</guid>
       <description></description>
     </item>
   </channel>

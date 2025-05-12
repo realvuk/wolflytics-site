@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>wolflytics</title>
-    <link>http://localhost:1313/wolflytics/</link>
+    <link>https://realvuk.github.io/wolflytics/</link>
     <description>Recent content on wolflytics</description>
     <image>
       <title>wolflytics</title>
-      <url>http://localhost:1313/wolflytics/images/site-preview.png</url>
-      <link>http://localhost:1313/wolflytics/images/site-preview.png</link>
+      <url>https://realvuk.github.io/wolflytics/images/site-preview.png</url>
+      <link>https://realvuk.github.io/wolflytics/images/site-preview.png</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/wolflytics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://realvuk.github.io/wolflytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:1313/wolflytics/about/</link>
+      <link>https://realvuk.github.io/wolflytics/about/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wolflytics/about/</guid>
+      <guid>https://realvuk.github.io/wolflytics/about/</guid>
       <description>&lt;p&gt;Hi, my name is Vuk Dinic and I&amp;rsquo;am social science researcher who often use machine learning to find the answer to my questions about society.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My opinion about sociology</title>
-      <link>http://localhost:1313/wolflytics/posts/my-opinion-about-sociology/</link>
+      <link>https://realvuk.github.io/wolflytics/posts/my-opinion-about-sociology/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wolflytics/posts/my-opinion-about-sociology/</guid>
+      <guid>https://realvuk.github.io/wolflytics/posts/my-opinion-about-sociology/</guid>
       <description>&lt;p&gt;When I first embarked on my journey into the field of sociology, I was driven by a single burning question: Why do some societies thrive and prosper while others, like Serbia, struggle? The answer seemed straightforward: prosperity was linked to the presence of individual freedom. Societies with citizens free to make their own choices tended to flourish, while those burdened by government control and restrictions on personal liberties often suffered. After realizing that sociology wasn&amp;rsquo;t fun anymore, I decided to change my career to something more meaningful. Changing one&amp;rsquo;s career might seem like a daring move, but the beauty of life is that you can always make changes and pursue what you love.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Once, a student asked Margaret Mead...</title>
-      <link>http://localhost:1313/wolflytics/posts/margaret-mead/</link>
+      <link>https://realvuk.github.io/wolflytics/posts/margaret-mead/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/wolflytics/posts/margaret-mead/</guid>
+      <guid>https://realvuk.github.io/wolflytics/posts/margaret-mead/</guid>
       <description>&lt;p&gt;Once, a student asked Margaret Mead (a well-known anthropologist) where civilization began. The student expected answers like the wheel, clay pottery shards, fish hooks, or other ancient tools. But Mead’s answer was surprising:
 “In a cave where a healed and mended femur was found,” she replied with a smile.
 To the question: Why?
