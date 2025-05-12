@@ -18,11 +18,11 @@ minify:
 
 params:
   env: production
-  title: wolflytics
-  description: "Data science, NLP, and insights from the digital parliament. Powered by curiosity."
-  keywords: [Vuk Dinic, Data Science, NLP, Blog, Portfolio, wolflytics]
+  title: Wolflytics
+  description: "Data science, Society. Powered by curiosity."
+  keywords: [Vuk Dinic, Data Science, Blog, Portfolio, Society, Wolflytics]
   author: Vuk Dinic
-  images: ["images/site-preview.png"]  # Create this for link previews
+  images: ["images/site-preview.svg"]  # Create this for link previews
 
   DateFormat: "2 January 2006"
   defaultTheme: dark
