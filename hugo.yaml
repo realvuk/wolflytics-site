@@ -22,7 +22,7 @@ params:
   description: "Data science, Society. Powered by curiosity."
   keywords: [Vuk Dinic, Data Science, Blog, Portfolio, Society, Wolflytics]
   author: Vuk Dinic
-  images: ["images/site-preview.svg"]  # Create this for link previews
+  images: ["images/site-preview.jpg"]
 
   DateFormat: "2 January 2006"
   defaultTheme: dark
