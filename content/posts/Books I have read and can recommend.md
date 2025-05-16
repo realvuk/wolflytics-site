@@ -1,5 +1,5 @@
 ---
-title: Books I Have Read can and Recommend
+title: Books I Have Read and can Recommend
 date: 2025-05-16
 draft: false
 ---
