@@ -1,0 +1,140 @@
+baseURL: "https://realvuk.github.io/wolflytics/"
+languageCode: en-us
+title: wolflytics
+theme: ["PaperMod"]
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Wolflytics
+  description: "Data science, Society. Powered by curiosity."
+  keywords: [Vuk Dinic, Data Science, Blog, Portfolio, Society, Wolflytics]
+  author: Vuk Dinic
+  images: ["images/site-preview.jpg"]
+
+  DateFormat: "2 January 2006"
+  defaultTheme: dark
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+  assets:
+    disableHLJS: false
+    disableFingerprinting: true
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "safari-pinned-tab.svg"
+
+  label:
+    text: "wolflytics"
+    icon: "/apple-touch-icon.png"
+    iconHeight: 35
+
+  # Enable personal branding profile
+  profileMode:
+    enabled: true
+    title: "Vuk Dinic"
+    subtitle: "Computational Sociologist & Data Scientist"
+    imageUrl: "images/profile.svg" # Add this image
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Vuk Dinic"
+    buttons:
+      - name: Blog
+        url: posts
+      - name: Projects
+        url: projects
+      - name: About
+        url: about
+
+  # Home page welcome
+  homeInfoParams:
+    Title: "Welcome to wolflytics 🧠"
+    Content: >
+      Exploring politics, language, and power through data.  
+      This is my digital lab — part blog, part portfolio, always evolving.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/realvuk"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/vukdinic/"
+    - name: x
+      url: "https://x.com/realvuk"
+
+  cover:
+    hidden: false
+    hiddenInList: true
+    hiddenInSingle: false
+
+  editPost:
+    URL: "https://github.com/realvuk/wolflytics/edit/main/content"
+    Text: "Suggest an edit"
+    appendFilePath: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 1
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 2
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 3
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 4
+    - name: "Resume"
+      url: "/resume/"
+      weight: 5
+
+pygmentsUseClasses: true
+
+markup:
+  highlight:
+    noClasses: false
+    style: monokai
