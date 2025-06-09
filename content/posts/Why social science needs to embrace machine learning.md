@@ -8,7 +8,8 @@ tags:
   - "#sociology"
 images: ["/images/soml.jpg"]
 ---
-![machine_learning](/images/soml.jpg)
+![machine_learning](/static/images/soml.jpg)
+
 **Quick note**: This is just the first post in a series; think of it as a short introduction.
 
 I'm a social scientist, and unlike many in my field, I genuinely enjoy math and statistics. My friend Petar jokes that statistics isn't _real_ math, but I'll leave that debate for another time.
