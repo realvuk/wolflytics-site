@@ -8,7 +8,7 @@ tags:
   - "#sociology"
 images: ["/images/soml.jpg"]
 ---
-![machine_learning](/static/images/soml.jpg)
+![machine_learning](/images/soml.jpg)
 
 **Quick note**: This is just the first post in a series; think of it as a short introduction.
 
