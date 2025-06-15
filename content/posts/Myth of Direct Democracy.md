@@ -1,5 +1,5 @@
 ---
-title: " Myth of Direct Democracy"
+title: "The Myth of Direct Democracy"
 date: 2025-06-15
 draft: false
 tags:
