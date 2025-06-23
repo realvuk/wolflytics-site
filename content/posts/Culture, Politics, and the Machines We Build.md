@@ -1,6 +1,6 @@
 ---
 title: "Culture, Politics, and the Machines We Build"
-date: 2025-06-26
+date: 2025-06-23
 draft: false
 tags:
   - society
