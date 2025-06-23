@@ -10,6 +10,7 @@ images: ["/images/culture_politics_machines.jpg"]
 ---
 
 ![democracy](/images/culture_politics_machines.jpg)
+
 ## Intro
 I follow the news about AI not as much as I should, but enough to stay well-informed.
 When I say "news," I'm not talking so much about new tools and techniques but about emerging use cases, implications, misuse, and broader impact. Most of the articles I come across focus on AI's influence on business or, more recently, on psychology.
