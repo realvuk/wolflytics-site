@@ -17,12 +17,12 @@ This is a [now page](https://nownownow.com/about) — a snapshot of what has my 
 
 ## Currently reading
 
-- _(add a book or paper here)_
+Zgodbe o slovenskih znanstvenikih in znanstvenicah by Anton Gradišek
 
 ## On my mind
 
-- _(a question or idea you're chewing on)_
+- Fine-tuning Gemma 4
 
 ---
 
-If anything here overlaps with your own work, [reach out](/about/) — I'd like to hear from you.
+If anything here overlaps with your own work, [reach out](/about/), I'd like to hear from you.
