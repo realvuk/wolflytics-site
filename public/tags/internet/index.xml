@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Internet on wolflytics</title>
+    <link>http://localhost:1313/tags/internet/</link>
+    <description>Recent content in Internet on wolflytics</description>
+    <image>
+      <title>wolflytics</title>
+      <url>http://localhost:1313/images/site-preview.jpg</url>
+      <link>http://localhost:1313/images/site-preview.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The internet has shattered two illusions</title>
+      <link>http://localhost:1313/posts/the-internet-has-shattered-two-illusions/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-internet-has-shattered-two-illusions/</guid>
+      <description>&lt;p&gt;The internet has shattered two illusions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;That ignorance is the result of a lack of information.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;That evil is the result of ignorance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hope on wolflytics</title>
+    <link>http://localhost:1313/tags/hope/</link>
+    <description>Recent content in Hope on wolflytics</description>
+    <image>
+      <title>wolflytics</title>
+      <url>http://localhost:1313/images/site-preview.jpg</url>
+      <link>http://localhost:1313/images/site-preview.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hope/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hope is Necessary</title>
+      <link>http://localhost:1313/posts/hope-is-necessary/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hope-is-necessary/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;hope&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/hope.jpg&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Andy: *Hope is a good thing, maybe the best of things, and no good thing ever dies.*
+Red: *Hope is a dangerous thing. Hope can drive a man insane.*
+The Shawshank Redemption
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Both are right; hope can be dangerous, but without it, nothing worth building ever happens.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why the Future Feels Dark&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When I talk to young people, or scroll through online posts, I hear things like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“I’ll never be able to retire.”&lt;/li&gt;
+&lt;li&gt;“You will own nothing and be happy.”&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These anxieties aren’t groundless. Climate change, wars, extremism, inequality, unstable jobs, and housing markets, the list is long. The rise of the “doomer” meme around 2018 captured this perfectly: a young man who has given up on life.
+But giving up is the one guaranteed way to make the future worse.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

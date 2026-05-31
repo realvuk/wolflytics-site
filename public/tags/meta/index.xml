@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Meta on wolflytics</title>
+    <link>http://localhost:1313/tags/meta/</link>
+    <description>Recent content in Meta on wolflytics</description>
+    <image>
+      <title>wolflytics</title>
+      <url>http://localhost:1313/images/site-preview.jpg</url>
+      <link>http://localhost:1313/images/site-preview.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why this notes section exists</title>
+      <link>http://localhost:1313/notes/why-this-notes-section-exists/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/why-this-notes-section-exists/</guid>
+      <description>&lt;p&gt;I kept treating every post like an essay, so when the PhD got busy the blog went quiet for months. This is the fix: a place for short, rough notes I can write in five minutes. A paper I read, a thought, something that surprised me. No pressure to be polished — that&amp;rsquo;s what the &lt;a href=&#34;http://localhost:1313/posts/&#34;&gt;posts&lt;/a&gt; are for.&lt;/p&gt;
+&lt;p&gt;If a few notes start clustering around the same idea, that&amp;rsquo;s usually the seed of a real post.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

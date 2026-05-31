@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Drafts on wolflytics</title>
+    <link>http://localhost:1313/drafts/</link>
+    <description>Recent content in Drafts on wolflytics</description>
+    <image>
+      <title>wolflytics</title>
+      <url>http://localhost:1313/images/site-preview.jpg</url>
+      <link>http://localhost:1313/images/site-preview.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/drafts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Idea backlog</title>
+      <link>http://localhost:1313/drafts/ideas/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/drafts/ideas/</guid>
+      <description>&lt;h2 id=&#34;post-ideas-longer-essays&#34;&gt;Post ideas (longer essays)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;note-ideas-quick-atomic&#34;&gt;Note ideas (quick, atomic)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A paper I read this week and one takeaway&lt;/li&gt;
+&lt;li&gt;Something that surprised me at the lab&lt;/li&gt;
+&lt;li&gt;A tool or workflow that saved me time&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reading-log-to-write-up-later&#34;&gt;Reading log (to write up later)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

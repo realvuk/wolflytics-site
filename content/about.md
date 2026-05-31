@@ -5,9 +5,33 @@ draft: false
 tags: ["about"]
 ---
 
-Hi! I’m Vuk Dinic, a social science researcher leveraging machine learning to explore and answer complex questions about society.
-Here, you’ll find my projects, research insights and other work related to data, politics, and digital culture.
+Hi! I'm **Vuk Dinic** — a social-science researcher using machine learning to study society, politics, and digital culture.
 
-This website’s content and code are licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html)
+I'm currently a PhD researcher in the [Datavysts](https://datavysts.eu/) Marie Skłodowska-Curie doctoral network, hosted at the [Jožef Stefan Institute](https://www.ijs.si/ijsw/V001/JSI) in Ljubljana, Slovenia. My project focuses on building **trustworthy AI tools to increase political participation**.
 
-Feel free to use, modify, and share the content under the terms of the GNU General Public License version 3.
+This site is part blog, part lab notebook. You'll find:
+
+- **[Posts](/posts/)** — essays on data, society, and politics.
+- **[Notes](/notes/)** — shorter, rougher thoughts and reading notes.
+- **[Projects](/projects/)** — research and data-science work, like my [NLP analysis of the Serbian Parliament](/projects/).
+- **[Now](/now/)** — what I'm working on at the moment.
+
+## Research interests
+
+- Computational social science & political discourse analysis
+- Natural language processing for low-resource languages (e.g. Serbian)
+- Trustworthy / explainable AI and its role in democratic participation
+
+## Elsewhere
+
+- GitHub — [@realvuk](https://github.com/realvuk)
+- LinkedIn — [vukdinic](https://www.linkedin.com/in/vukdinic/)
+- X — [@realvuk](https://x.com/realvuk)
+- Google Scholar — _(add your profile link)_
+- ORCID — _(add your ORCID link)_
+
+If your work touches any of the above, I'd be glad to connect or collaborate — reach out via any of the links above.
+
+---
+
+This website's content and code are licensed under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html). Feel free to use, modify, and share under those terms.

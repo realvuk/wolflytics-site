@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on wolflytics</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <description>Recent content in AI on wolflytics</description>
+    <image>
+      <title>wolflytics</title>
+      <url>http://localhost:1313/images/site-preview.jpg</url>
+      <link>http://localhost:1313/images/site-preview.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Culture, Politics, and the Machines We Build</title>
+      <link>http://localhost:1313/posts/culture-politics-and-the-machines-we-build/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/culture-politics-and-the-machines-we-build/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;democracy&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/culture_politics_machines.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;I follow the news about AI not as much as I should, but enough to stay well-informed.
+When I say &amp;ldquo;news,&amp;rdquo; I&amp;rsquo;m not talking so much about new tools and techniques but about emerging use cases, implications, misuse, and broader impact. Most of the articles I come across focus on AI&amp;rsquo;s influence on business or, more recently, on psychology.
+However, I rarely, if ever, see articles discussing how AI could influence our political system.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

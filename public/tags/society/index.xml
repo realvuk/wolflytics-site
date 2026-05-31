@@ -2,29 +2,70 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Society on wolflytics</title>
-    <link>https://realvuk.github.io/wolflytics/tags/society/</link>
+    <link>http://localhost:1313/tags/society/</link>
     <description>Recent content in Society on wolflytics</description>
     <image>
       <title>wolflytics</title>
-      <url>https://realvuk.github.io/wolflytics/images/site-preview.png</url>
-      <link>https://realvuk.github.io/wolflytics/images/site-preview.png</link>
+      <url>http://localhost:1313/images/site-preview.jpg</url>
+      <link>http://localhost:1313/images/site-preview.jpg</link>
     </image>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://realvuk.github.io/wolflytics/tags/society/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/society/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hope is Necessary</title>
+      <link>http://localhost:1313/posts/hope-is-necessary/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hope-is-necessary/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;hope&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/hope.jpg&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Andy: *Hope is a good thing, maybe the best of things, and no good thing ever dies.*
+Red: *Hope is a dangerous thing. Hope can drive a man insane.*
+The Shawshank Redemption
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Both are right; hope can be dangerous, but without it, nothing worth building ever happens.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why the Future Feels Dark&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When I talk to young people, or scroll through online posts, I hear things like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“I’ll never be able to retire.”&lt;/li&gt;
+&lt;li&gt;“You will own nothing and be happy.”&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These anxieties aren’t groundless. Climate change, wars, extremism, inequality, unstable jobs, and housing markets, the list is long. The rise of the “doomer” meme around 2018 captured this perfectly: a young man who has given up on life.
+But giving up is the one guaranteed way to make the future worse.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Culture, Politics, and the Machines We Build</title>
+      <link>http://localhost:1313/posts/culture-politics-and-the-machines-we-build/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/culture-politics-and-the-machines-we-build/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;democracy&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/culture_politics_machines.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;I follow the news about AI not as much as I should, but enough to stay well-informed.
+When I say &amp;ldquo;news,&amp;rdquo; I&amp;rsquo;m not talking so much about new tools and techniques but about emerging use cases, implications, misuse, and broader impact. Most of the articles I come across focus on AI&amp;rsquo;s influence on business or, more recently, on psychology.
+However, I rarely, if ever, see articles discussing how AI could influence our political system.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Myth of Direct Democracy</title>
+      <link>http://localhost:1313/posts/myth-of-direct-democracy/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/myth-of-direct-democracy/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;democracy&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/direct_democracy.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Direct democracy feels empowering in a broken system. But unless we fix the trust and accountability mechanisms within a representative democracy, we’ll just keep repeating the same cycle.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In Serbia, we’re witnessing the largest anti-government protest in the last 25 years, possibly the largest ever, despite ongoing population decline. The immediate trigger was the collapse of a canopy that killed 16 people. But I don’t want to focus on why the protest started or speculate about the movement&amp;rsquo;s future.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My opinion about sociology</title>
-      <link>https://realvuk.github.io/wolflytics/posts/my-opinion-about-sociology/</link>
+      <link>http://localhost:1313/posts/my-opinion-about-sociology/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://realvuk.github.io/wolflytics/posts/my-opinion-about-sociology/</guid>
+      <guid>http://localhost:1313/posts/my-opinion-about-sociology/</guid>
       <description>&lt;p&gt;When I first embarked on my journey into the field of sociology, I was driven by a single burning question: Why do some societies thrive and prosper while others, like Serbia, struggle? The answer seemed straightforward: prosperity was linked to the presence of individual freedom. Societies with citizens free to make their own choices tended to flourish, while those burdened by government control and restrictions on personal liberties often suffered. After realizing that sociology wasn&amp;rsquo;t fun anymore, I decided to change my career to something more meaningful. Changing one&amp;rsquo;s career might seem like a daring move, but the beauty of life is that you can always make changes and pursue what you love.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Once, a student asked Margaret Mead...</title>
-      <link>https://realvuk.github.io/wolflytics/posts/margaret-mead/</link>
+      <link>http://localhost:1313/posts/margaret-mead/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://realvuk.github.io/wolflytics/posts/margaret-mead/</guid>
+      <guid>http://localhost:1313/posts/margaret-mead/</guid>
       <description>&lt;p&gt;Once, a student asked Margaret Mead (a well-known anthropologist) where civilization began. The student expected answers like the wheel, clay pottery shards, fish hooks, or other ancient tools. But Mead’s answer was surprising:
 “In a cave where a healed and mended femur was found,” she replied with a smile.
 To the question: Why?

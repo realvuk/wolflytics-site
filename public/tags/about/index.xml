@@ -2,23 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>About on wolflytics</title>
-    <link>https://realvuk.github.io/wolflytics/tags/about/</link>
+    <link>http://localhost:1313/tags/about/</link>
     <description>Recent content in About on wolflytics</description>
     <image>
       <title>wolflytics</title>
-      <url>https://realvuk.github.io/wolflytics/images/site-preview.png</url>
-      <link>https://realvuk.github.io/wolflytics/images/site-preview.png</link>
+      <url>http://localhost:1313/images/site-preview.jpg</url>
+      <link>http://localhost:1313/images/site-preview.jpg</link>
     </image>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://realvuk.github.io/wolflytics/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;VUK DINIC&lt;/p&gt;
+&lt;p&gt;| +381603808463 | &lt;a href=&#34;din.vuk@gmail.com&#34;&gt;Email&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/in/vuk-dinic&#34;&gt;Linkedin&lt;/a&gt; | &lt;a href=&#34;https://github.com/realvuk&#34;&gt;Github&lt;/a&gt; |&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;WORK EXPERIENCE&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Teaching Assistant/Junior researcher&lt;/strong&gt;                                              &lt;br&gt;
+Faculty of Philosophy, University of Niš - October 2020 - Present&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assisted in developing lesson plans and coordinated research activities for 500+ students annually, resulting in measurable improvements in academic outcomes.&lt;/li&gt;
+&lt;li&gt;Designed and implemented data-driven feedback systems, leading to a 20% improvement in curriculum quality.&lt;/li&gt;
+&lt;li&gt;Spearheaded the creation of a new methodology course, significantly enhancing student participation and engagement.&lt;/li&gt;
+&lt;li&gt;Applied quantitative and qualitative research methods to improve instructional strategies based on student feedback.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Data Analyst&lt;/strong&gt;                                                             &lt;br&gt;
+Students For Liberty - September 2020 - February 2024&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
-      <link>https://realvuk.github.io/wolflytics/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://realvuk.github.io/wolflytics/about/</guid>
-      <description>&lt;p&gt;Hi, my name is Vuk Dinic and I&amp;rsquo;am social science researcher who often use machine learning to find the answer to my questions about society.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m &lt;strong&gt;Vuk Dinic&lt;/strong&gt; — a social-science researcher using machine learning to study society, politics, and digital culture.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently a PhD researcher in the &lt;a href=&#34;https://datavysts.eu/&#34;&gt;Datavysts&lt;/a&gt; Marie Skłodowska-Curie doctoral network, hosted at the &lt;a href=&#34;https://www.ijs.si/ijsw/V001/JSI&#34;&gt;Jožef Stefan Institute&lt;/a&gt; in Ljubljana, Slovenia. My project focuses on building &lt;strong&gt;trustworthy AI tools to increase political participation&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This site is part blog, part lab notebook. You&amp;rsquo;ll find:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/posts/&#34;&gt;Posts&lt;/a&gt;&lt;/strong&gt; — essays on data, society, and politics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/notes/&#34;&gt;Notes&lt;/a&gt;&lt;/strong&gt; — shorter, rougher thoughts and reading notes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;Projects&lt;/a&gt;&lt;/strong&gt; — research and data-science work, like my &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;NLP analysis of the Serbian Parliament&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/now/&#34;&gt;Now&lt;/a&gt;&lt;/strong&gt; — what I&amp;rsquo;m working on at the moment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Computational social science &amp;amp; political discourse analysis&lt;/li&gt;
+&lt;li&gt;Natural language processing for low-resource languages (e.g. Serbian)&lt;/li&gt;
+&lt;li&gt;Trustworthy / explainable AI and its role in democratic participation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;elsewhere&#34;&gt;Elsewhere&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub — &lt;a href=&#34;https://github.com/realvuk&#34;&gt;@realvuk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LinkedIn — &lt;a href=&#34;https://www.linkedin.com/in/vukdinic/&#34;&gt;vukdinic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;X — &lt;a href=&#34;https://x.com/realvuk&#34;&gt;@realvuk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Scholar — &lt;em&gt;(add your profile link)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;ORCID — &lt;em&gt;(add your ORCID link)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If your work touches any of the above, I&amp;rsquo;d be glad to connect or collaborate — reach out via any of the links above.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,16 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on wolflytics</title>
-    <link>https://realvuk.github.io/wolflytics/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on wolflytics</description>
     <image>
       <title>wolflytics</title>
-      <url>https://realvuk.github.io/wolflytics/images/site-preview.png</url>
-      <link>https://realvuk.github.io/wolflytics/images/site-preview.png</link>
+      <url>http://localhost:1313/images/site-preview.jpg</url>
+      <link>http://localhost:1313/images/site-preview.jpg</link>
     </image>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://realvuk.github.io/wolflytics/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Serbian Parliamentary NLP Analysis</title>
+      <link>http://localhost:1313/projects/serbian-parliamentary-nlp-analysis/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/serbian-parliamentary-nlp-analysis/</guid>
+      <description>&lt;p&gt;Political discourse shapes policy, and policy shapes lives. But how do politicians actually speak? What topics dominate their agendas? And do their words reflect the concerns of everyday citizens? Using NLP, we can answer these questions with data not assumptions&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Natural Language Processing (NLP) has become a central pillar of AI, especially with the rise of Large Language Models (LLMs). At its core, an LLM is just NLP applied at scale—processing massive amounts of text to generate human-like responses.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

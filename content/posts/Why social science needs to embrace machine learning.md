@@ -3,9 +3,9 @@ title: Why social science needs to embrace machine learning
 date: 2025-06-06
 draft: false
 tags:
-  - "#machinelearning"
-  - "#socialscience"
-  - "#sociology"
+  - machine learning
+  - social science
+  - sociology
 images: ["/images/soml.jpg"]
 ---
 ![machine_learning](/images/soml.jpg)

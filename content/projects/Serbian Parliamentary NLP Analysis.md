@@ -3,6 +3,10 @@ title: Serbian Parliamentary NLP Analysis
 date: 2025-05-14
 draft: false
 tags:
+  - projects
+  - NLP
+  - machine learning
+  - politics
 ---
 
 Political discourse shapes policy, and policy shapes lives. But how do politicians actually speak? What topics dominate their agendas? And do their words reflect the concerns of everyday citizens? Using NLP, we can answer these questions with data not assumptions

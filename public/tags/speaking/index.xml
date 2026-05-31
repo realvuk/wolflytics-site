@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Speaking on wolflytics</title>
+    <link>http://localhost:1313/tags/speaking/</link>
+    <description>Recent content in Speaking on wolflytics</description>
+    <image>
+      <title>wolflytics</title>
+      <url>http://localhost:1313/images/site-preview.jpg</url>
+      <link>http://localhost:1313/images/site-preview.jpg</link>
+    </image>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/speaking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>4 Parts of Preparation for Public Speaking</title>
+      <link>http://localhost:1313/posts/4-parts-of-preparation-for-public-speaking/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/4-parts-of-preparation-for-public-speaking/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Person/Audience:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Their prejudices, foreknowledge, expectations, interests, and needs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Context:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; How much time I have and when it happens.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Space:&lt;/strong&gt; Online, room, props.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bigger Picture:&lt;/strong&gt; How this performance fits into the larger context.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Goal/Outcome:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;NOT what I will talk about, but the explicit and implicit goals (internal, external, open, and hidden), including the minimum, optimal, and maximum outcomes (pessimistic, medium, and optimistic).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;What I am saying/asking and in what order, and the key points.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+  </channel>
+</rss>

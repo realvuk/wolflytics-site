@@ -2,36 +2,418 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>wolflytics</title>
-    <link>https://realvuk.github.io/wolflytics/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on wolflytics</description>
     <image>
       <title>wolflytics</title>
-      <url>https://realvuk.github.io/wolflytics/images/site-preview.png</url>
-      <link>https://realvuk.github.io/wolflytics/images/site-preview.png</link>
+      <url>http://localhost:1313/images/site-preview.jpg</url>
+      <link>http://localhost:1313/images/site-preview.jpg</link>
     </image>
-    <generator>Hugo -- 0.147.2</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://realvuk.github.io/wolflytics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Idea backlog</title>
+      <link>http://localhost:1313/drafts/ideas/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/drafts/ideas/</guid>
+      <description>&lt;h2 id=&#34;post-ideas-longer-essays&#34;&gt;Post ideas (longer essays)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;note-ideas-quick-atomic&#34;&gt;Note ideas (quick, atomic)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;A paper I read this week and one takeaway&lt;/li&gt;
+&lt;li&gt;Something that surprised me at the lab&lt;/li&gt;
+&lt;li&gt;A tool or workflow that saved me time&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;reading-log-to-write-up-later&#34;&gt;Reading log (to write up later)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Now</title>
+      <link>http://localhost:1313/now/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/now/</guid>
+      <description>&lt;p&gt;&lt;em&gt;What I&amp;rsquo;m focused on right now. Last updated: 29 May 2026.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This is a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;now page&lt;/a&gt; — a snapshot of what has my attention at the moment, rather than a full archive.&lt;/p&gt;
+&lt;h2 id=&#34;work&#34;&gt;Work&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PhD researcher in the &lt;a href=&#34;https://datavysts.eu/&#34;&gt;Datavysts&lt;/a&gt; Marie Skłodowska-Curie network, hosted at the &lt;a href=&#34;https://www.ijs.si/ijsw/V001/JSI&#34;&gt;Jožef Stefan Institute&lt;/a&gt; in Ljubljana.&lt;/li&gt;
+&lt;li&gt;Building trustworthy AI tools to increase political participation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;currently-reading&#34;&gt;Currently reading&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;(add a book or paper here)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;on-my-mind&#34;&gt;On my mind&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;(a question or idea you&amp;rsquo;re chewing on)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;If anything here overlaps with your own work, &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;reach out&lt;/a&gt; — I&amp;rsquo;d like to hear from you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why this notes section exists</title>
+      <link>http://localhost:1313/notes/why-this-notes-section-exists/</link>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/why-this-notes-section-exists/</guid>
+      <description>&lt;p&gt;I kept treating every post like an essay, so when the PhD got busy the blog went quiet for months. This is the fix: a place for short, rough notes I can write in five minutes. A paper I read, a thought, something that surprised me. No pressure to be polished — that&amp;rsquo;s what the &lt;a href=&#34;http://localhost:1313/posts/&#34;&gt;posts&lt;/a&gt; are for.&lt;/p&gt;
+&lt;p&gt;If a few notes start clustering around the same idea, that&amp;rsquo;s usually the seed of a real post.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>New Beginnings</title>
+      <link>http://localhost:1313/posts/new-beginnings/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/new-beginnings/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;ljubljana&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/ljubljana.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I haven’t written in a while, a lot has happened!
+I’ve started a new life chapter in Ljubljana, Slovenia, as part of the Marie Skłodowska-Curie PhD network &lt;a href=&#34;https://datavysts.eu/&#34;&gt;Datavysts&lt;/a&gt;, with my host institution being the &lt;a href=&#34;https://www.ijs.si/ijsw/V001/JSI&#34;&gt;Jožef Stefan Institute&lt;/a&gt;.
+My project here focuses on building trustworthy AI tools to increase political participation.&lt;/p&gt;
+&lt;p&gt;Even though I’ve been here less than a month, everything has been great so far. One of my biggest fears was loneliness, moving somewhere new without knowing anyone. But that fear turned out to be unnecessary. In just a couple of weeks, I met so many amazing people, grabbed a beer or food (or both) with many of them, and somehow, even as someone who’s not very social, my social life is thriving.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hope is Necessary</title>
+      <link>http://localhost:1313/posts/hope-is-necessary/</link>
+      <pubDate>Fri, 26 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hope-is-necessary/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;hope&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/hope.jpg&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;Andy: *Hope is a good thing, maybe the best of things, and no good thing ever dies.*
+Red: *Hope is a dangerous thing. Hope can drive a man insane.*
+The Shawshank Redemption
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Both are right; hope can be dangerous, but without it, nothing worth building ever happens.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why the Future Feels Dark&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When I talk to young people, or scroll through online posts, I hear things like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“I’ll never be able to retire.”&lt;/li&gt;
+&lt;li&gt;“You will own nothing and be happy.”&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These anxieties aren’t groundless. Climate change, wars, extremism, inequality, unstable jobs, and housing markets, the list is long. The rise of the “doomer” meme around 2018 captured this perfectly: a young man who has given up on life.
+But giving up is the one guaranteed way to make the future worse.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Culture, Politics, and the Machines We Build</title>
+      <link>http://localhost:1313/posts/culture-politics-and-the-machines-we-build/</link>
+      <pubDate>Mon, 23 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/culture-politics-and-the-machines-we-build/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;democracy&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/culture_politics_machines.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;intro&#34;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;I follow the news about AI not as much as I should, but enough to stay well-informed.
+When I say &amp;ldquo;news,&amp;rdquo; I&amp;rsquo;m not talking so much about new tools and techniques but about emerging use cases, implications, misuse, and broader impact. Most of the articles I come across focus on AI&amp;rsquo;s influence on business or, more recently, on psychology.
+However, I rarely, if ever, see articles discussing how AI could influence our political system.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Myth of Direct Democracy</title>
+      <link>http://localhost:1313/posts/myth-of-direct-democracy/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/myth-of-direct-democracy/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;democracy&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/direct_democracy.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Direct democracy feels empowering in a broken system. But unless we fix the trust and accountability mechanisms within a representative democracy, we’ll just keep repeating the same cycle.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In Serbia, we’re witnessing the largest anti-government protest in the last 25 years, possibly the largest ever, despite ongoing population decline. The immediate trigger was the collapse of a canopy that killed 16 people. But I don’t want to focus on why the protest started or speculate about the movement&amp;rsquo;s future.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why social science needs to embrace machine learning</title>
+      <link>http://localhost:1313/posts/why-social-science-needs-to-embrace-machine-learning/</link>
+      <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/why-social-science-needs-to-embrace-machine-learning/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;machine_learning&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/soml.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quick note&lt;/strong&gt;: This is just the first post in a series; think of it as a short introduction.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a social scientist, and unlike many in my field, I genuinely enjoy math and statistics. My friend Petar jokes that statistics isn&amp;rsquo;t &lt;em&gt;real&lt;/em&gt; math, but I&amp;rsquo;ll leave that debate for another time.&lt;/p&gt;
+&lt;p&gt;What matters is that social science has long struggled to explain society&amp;rsquo;s complexity. We rely heavily on methods like surveys, interviews, and content analysis. These are useful but often fall short when predicting or uncovering &lt;em&gt;causal relationships&lt;/em&gt;. Society is messy, and humans are unpredictable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>4 Parts of Preparation for Public Speaking</title>
+      <link>http://localhost:1313/posts/4-parts-of-preparation-for-public-speaking/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/4-parts-of-preparation-for-public-speaking/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Person/Audience:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Their prejudices, foreknowledge, expectations, interests, and needs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Context:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Time:&lt;/strong&gt; How much time I have and when it happens.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Space:&lt;/strong&gt; Online, room, props.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bigger Picture:&lt;/strong&gt; How this performance fits into the larger context.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Goal/Outcome:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;NOT what I will talk about, but the explicit and implicit goals (internal, external, open, and hidden), including the minimum, optimal, and maximum outcomes (pessimistic, medium, and optimistic).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;What I am saying/asking and in what order, and the key points.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Books I Have Read and can Recommend</title>
+      <link>http://localhost:1313/posts/books-i-have-read-and-can-recommend/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/books-i-have-read-and-can-recommend/</guid>
+      <description>&lt;p&gt;Of course, this isn&amp;rsquo;t a complete list.&lt;/p&gt;
+&lt;h3 id=&#34;1-classical--stoic-wisdom&#34;&gt;&lt;strong&gt;1. Classical &amp;amp; Stoic Wisdom&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Marcus Aurelius&lt;/strong&gt; – &lt;em&gt;Meditations&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seneca&lt;/strong&gt; – &lt;em&gt;On Anger&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Miyamoto Musashi&lt;/strong&gt; – &lt;em&gt;The Book of Five Rings&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jonas Salzgeber&lt;/strong&gt; – &lt;em&gt;The Little Book of Stoicism&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Donald J. Robertson&lt;/strong&gt; – &lt;em&gt;How to Think Like a Roman Emperor&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Viktor Frankl&lt;/strong&gt; – &lt;em&gt;Man’s Search for Meaning&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-psychology-habits--decision-making&#34;&gt;&lt;strong&gt;2. Psychology, Habits &amp;amp; Decision-Making&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dale Carnegie&lt;/strong&gt; – &lt;em&gt;How to Win Friends and Influence People&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;James Clear&lt;/strong&gt; – &lt;em&gt;Atomic Habits&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ichiro Kishimi &amp;amp; Fumitake Koga&lt;/strong&gt; – &lt;em&gt;The Courage to Be Disliked&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Daniel Kahneman&lt;/strong&gt; – &lt;em&gt;Thinking, Fast and Slow&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Daniel Kahneman, Olivier Sibony &amp;amp; Cass Sunstein&lt;/strong&gt; – &lt;em&gt;Noise&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Morgan Housel&lt;/strong&gt; – &lt;em&gt;The Psychology of Money&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Spencer Johnson&lt;/strong&gt; – &lt;em&gt;Who Moved My Cheese?&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mark Manson&lt;/strong&gt; – &lt;em&gt;The Subtle Art of Not Giving a F*ck&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mark Manson&lt;/strong&gt; – &lt;em&gt;Everything Is F*cked&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;3-modern-productivity-purpose--minimalism&#34;&gt;&lt;strong&gt;3. Modern Productivity, Purpose &amp;amp; Minimalism&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Tiago Forte&lt;/strong&gt; – &lt;em&gt;Building a Second Brain&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cal Newport&lt;/strong&gt; – &lt;em&gt;Digital Minimalism&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simon Sinek&lt;/strong&gt; – &lt;em&gt;Start with Why&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simon Sinek&lt;/strong&gt; – &lt;em&gt;Find Your Why&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simon Sinek&lt;/strong&gt; – &lt;em&gt;Leaders Eat Last&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Simon Sinek&lt;/strong&gt; – &lt;em&gt;The Infinite Game&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;4-risk-uncertainty--complex-systems&#34;&gt;&lt;strong&gt;4. Risk, Uncertainty &amp;amp; Complex Systems&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Nassim Nicholas Taleb&lt;/strong&gt; – &lt;em&gt;The Black Swan&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nassim Nicholas Taleb&lt;/strong&gt; – &lt;em&gt;Antifragile&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nassim Nicholas Taleb&lt;/strong&gt; – &lt;em&gt;Skin in the Game&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;George S. Clason&lt;/strong&gt; – &lt;em&gt;The Richest Man in Babylon&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robert Greene&lt;/strong&gt; – &lt;em&gt;The 48 Laws of Power&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robert Greene&lt;/strong&gt; – &lt;em&gt;The 33 Strategies of War&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Robert Greene &amp;amp; 50 Cent&lt;/strong&gt; – &lt;em&gt;The 50th Law&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sun Tzu&lt;/strong&gt; – &lt;em&gt;The Art of War&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;5-society-history--economics&#34;&gt;&lt;strong&gt;5. Society, History &amp;amp; Economics&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Yuval Noah Harari&lt;/strong&gt; – &lt;em&gt;21 Lessons for the 21st Century&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jared Diamond&lt;/strong&gt; – &lt;em&gt;Guns, Germs, and Steel&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mary Beard&lt;/strong&gt; – &lt;em&gt;SPQR: A History of Ancient Rome&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Peter L. Berger&lt;/strong&gt; – &lt;em&gt;The Capitalist Revolution&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Srdja Popovic &amp;amp; Matthew Miller&lt;/strong&gt; – &lt;em&gt;Blueprint for Revolution&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Henry Hazlitt&lt;/strong&gt; – &lt;em&gt;Economics in One Lesson&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frédéric Bastiat&lt;/strong&gt; – &lt;em&gt;The Law&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;6-science--technology&#34;&gt;&lt;strong&gt;6. Science &amp;amp; Technology&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bill Bryson&lt;/strong&gt; – &lt;em&gt;A Short History of Nearly Everything&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Carlo Rovelli&lt;/strong&gt; – &lt;em&gt;The Order of Time&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hannah Fry&lt;/strong&gt; – &lt;em&gt;Hello World&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Max Tegmark&lt;/strong&gt; – &lt;em&gt;Life 3.0&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hans Rosling et al.&lt;/strong&gt; – &lt;em&gt;Factfulness&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vaclav Smil&lt;/strong&gt; – &lt;em&gt;Numbers Don’t Lie&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Alan Sokal &amp;amp; Jean Bricmont&lt;/strong&gt; – &lt;em&gt;Fashionable Nonsense&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Aurélien Géron&lt;/strong&gt; – &lt;em&gt;Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hadley Wickham &amp;amp; Garrett Grolemund&lt;/strong&gt; – &lt;em&gt;R for Data Science&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;7-memoirs-biographies--personal-stories&#34;&gt;&lt;strong&gt;7. Memoirs, Biographies &amp;amp; Personal Stories&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;David Goggins&lt;/strong&gt; – &lt;em&gt;Can’t Hurt Me&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edward Snowden&lt;/strong&gt; – &lt;em&gt;Permanent Record&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mihajlo Pupin&lt;/strong&gt; – &lt;em&gt;From Immigrant to Inventor&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dean Nicholson&lt;/strong&gt; – &lt;em&gt;Nala’s World&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fredrik Backman&lt;/strong&gt; – &lt;em&gt;Anxious People&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Marc-Uwe Kling&lt;/strong&gt; – &lt;em&gt;Qualityland&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phil Knight&lt;/strong&gt; – &lt;em&gt;Shoe Dog&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Programs I Install After Setting Up a New OS</title>
+      <link>http://localhost:1313/posts/programs-i-install-after-setting-up-a-new-os/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/programs-i-install-after-setting-up-a-new-os/</guid>
+      <description>&lt;p&gt;Whenever I install a new operating system, these are the programs I always set up first:&lt;/p&gt;
+&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Program&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Anaconda&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Bitwarden&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;BleachBit&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Brave&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Calibre&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Chrome&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Jamovi&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Lunatask&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Mullvad VPN&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Obsidian&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Okular&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;OnlyOffice&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Python&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;qBittorrent&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;R&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;RStudio&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Signal&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Spotify&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Steam&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;VLC&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;VSCodium&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;Zenbrowser&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>Serbian Parliamentary NLP Analysis</title>
+      <link>http://localhost:1313/projects/serbian-parliamentary-nlp-analysis/</link>
+      <pubDate>Wed, 14 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/serbian-parliamentary-nlp-analysis/</guid>
+      <description>&lt;p&gt;Political discourse shapes policy, and policy shapes lives. But how do politicians actually speak? What topics dominate their agendas? And do their words reflect the concerns of everyday citizens? Using NLP, we can answer these questions with data not assumptions&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Natural Language Processing (NLP) has become a central pillar of AI, especially with the rise of Large Language Models (LLMs). At its core, an LLM is just NLP applied at scale—processing massive amounts of text to generate human-like responses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The internet has shattered two illusions</title>
+      <link>http://localhost:1313/posts/the-internet-has-shattered-two-illusions/</link>
+      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-internet-has-shattered-two-illusions/</guid>
+      <description>&lt;p&gt;The internet has shattered two illusions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;That ignorance is the result of a lack of information.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;That evil is the result of ignorance.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;VUK DINIC&lt;/p&gt;
+&lt;p&gt;| +381603808463 | &lt;a href=&#34;din.vuk@gmail.com&#34;&gt;Email&lt;/a&gt; | &lt;a href=&#34;https://www.linkedin.com/in/vuk-dinic&#34;&gt;Linkedin&lt;/a&gt; | &lt;a href=&#34;https://github.com/realvuk&#34;&gt;Github&lt;/a&gt; |&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;work-experience&#34;&gt;WORK EXPERIENCE&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Teaching Assistant/Junior researcher&lt;/strong&gt;                                              &lt;br&gt;
+Faculty of Philosophy, University of Niš - October 2020 - Present&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Assisted in developing lesson plans and coordinated research activities for 500+ students annually, resulting in measurable improvements in academic outcomes.&lt;/li&gt;
+&lt;li&gt;Designed and implemented data-driven feedback systems, leading to a 20% improvement in curriculum quality.&lt;/li&gt;
+&lt;li&gt;Spearheaded the creation of a new methodology course, significantly enhancing student participation and engagement.&lt;/li&gt;
+&lt;li&gt;Applied quantitative and qualitative research methods to improve instructional strategies based on student feedback.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Data Analyst&lt;/strong&gt;                                                             &lt;br&gt;
+Students For Liberty - September 2020 - February 2024&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
-      <link>https://realvuk.github.io/wolflytics/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://realvuk.github.io/wolflytics/about/</guid>
-      <description>&lt;p&gt;Hi, my name is Vuk Dinic and I&amp;rsquo;am social science researcher who often use machine learning to find the answer to my questions about society.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m &lt;strong&gt;Vuk Dinic&lt;/strong&gt; — a social-science researcher using machine learning to study society, politics, and digital culture.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m currently a PhD researcher in the &lt;a href=&#34;https://datavysts.eu/&#34;&gt;Datavysts&lt;/a&gt; Marie Skłodowska-Curie doctoral network, hosted at the &lt;a href=&#34;https://www.ijs.si/ijsw/V001/JSI&#34;&gt;Jožef Stefan Institute&lt;/a&gt; in Ljubljana, Slovenia. My project focuses on building &lt;strong&gt;trustworthy AI tools to increase political participation&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This site is part blog, part lab notebook. You&amp;rsquo;ll find:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/posts/&#34;&gt;Posts&lt;/a&gt;&lt;/strong&gt; — essays on data, society, and politics.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/notes/&#34;&gt;Notes&lt;/a&gt;&lt;/strong&gt; — shorter, rougher thoughts and reading notes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;Projects&lt;/a&gt;&lt;/strong&gt; — research and data-science work, like my &lt;a href=&#34;http://localhost:1313/projects/&#34;&gt;NLP analysis of the Serbian Parliament&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://localhost:1313/now/&#34;&gt;Now&lt;/a&gt;&lt;/strong&gt; — what I&amp;rsquo;m working on at the moment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Computational social science &amp;amp; political discourse analysis&lt;/li&gt;
+&lt;li&gt;Natural language processing for low-resource languages (e.g. Serbian)&lt;/li&gt;
+&lt;li&gt;Trustworthy / explainable AI and its role in democratic participation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;elsewhere&#34;&gt;Elsewhere&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub — &lt;a href=&#34;https://github.com/realvuk&#34;&gt;@realvuk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;LinkedIn — &lt;a href=&#34;https://www.linkedin.com/in/vukdinic/&#34;&gt;vukdinic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;X — &lt;a href=&#34;https://x.com/realvuk&#34;&gt;@realvuk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Scholar — &lt;em&gt;(add your profile link)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;ORCID — &lt;em&gt;(add your ORCID link)&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If your work touches any of the above, I&amp;rsquo;d be glad to connect or collaborate — reach out via any of the links above.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My opinion about sociology</title>
-      <link>https://realvuk.github.io/wolflytics/posts/my-opinion-about-sociology/</link>
+      <link>http://localhost:1313/posts/my-opinion-about-sociology/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://realvuk.github.io/wolflytics/posts/my-opinion-about-sociology/</guid>
+      <guid>http://localhost:1313/posts/my-opinion-about-sociology/</guid>
       <description>&lt;p&gt;When I first embarked on my journey into the field of sociology, I was driven by a single burning question: Why do some societies thrive and prosper while others, like Serbia, struggle? The answer seemed straightforward: prosperity was linked to the presence of individual freedom. Societies with citizens free to make their own choices tended to flourish, while those burdened by government control and restrictions on personal liberties often suffered. After realizing that sociology wasn&amp;rsquo;t fun anymore, I decided to change my career to something more meaningful. Changing one&amp;rsquo;s career might seem like a daring move, but the beauty of life is that you can always make changes and pursue what you love.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Once, a student asked Margaret Mead...</title>
-      <link>https://realvuk.github.io/wolflytics/posts/margaret-mead/</link>
+      <link>http://localhost:1313/posts/margaret-mead/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://realvuk.github.io/wolflytics/posts/margaret-mead/</guid>
+      <guid>http://localhost:1313/posts/margaret-mead/</guid>
       <description>&lt;p&gt;Once, a student asked Margaret Mead (a well-known anthropologist) where civilization began. The student expected answers like the wheel, clay pottery shards, fish hooks, or other ancient tools. But Mead’s answer was surprising:
 “In a cave where a healed and mended femur was found,” she replied with a smile.
 To the question: Why?
