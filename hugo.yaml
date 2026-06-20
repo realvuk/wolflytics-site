@@ -23,11 +23,9 @@ params:
   keywords: [Vuk Dinic, Data Science, Blog, Portfolio, Society, Wolflytics]
   author: Vuk Dinic
   images: ["images/site-preview.jpg"]
-
   DateFormat: "2 January 2006"
   defaultTheme: dark
   disableThemeToggle: false
-
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -43,7 +41,6 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
-
   assets:
     disableHLJS: false
     disableFingerprinting: true
@@ -79,7 +76,7 @@ params:
   homeInfoParams:
     Title: "Welcome to wolflytics 🧠"
     Content: >
-      Exploring politics, language, and power through data.  
+      Exploring politics, language, and power through data.
       This is my digital lab — part blog, part portfolio, always evolving.
 
   socialIcons:

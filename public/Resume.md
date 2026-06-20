@@ -7,11 +7,17 @@ tags: ["about"]
 
 ## VUK DINIC
 
-| +381603808463 | [email](din.vuk@gmail.com) | [Linkedin](https://www.linkedin.com/in/vuk-dinic) | [Github](https://github.com/realvuk) |
+| [email](vuk.dinic@ijs.si) | [Linkedin](https://www.linkedin.com/in/vuk-dinic) | [Github](https://github.com/realvuk) |
 
 ---
 
 ## WORK EXPERIENCE
+
+** Junior Researcher**
+Institute Jozef Stefan, Ljubljana - October 2025
+- Conducting doctoral research on trustworthy AI for democratic participation.
+- Developing NLP pipelines for multilingual parliamentary corpora (ParlaCLARIN/ParlaCAP).
+- Designing and implementing a dual-phase LLM evaluation framework
 
 **Teaching Assistant/Junior researcher**                                                 
 Faculty of Philosophy, University of Niš - October 2020 - Present
@@ -26,20 +32,23 @@ Faculty of Philosophy, University of Niš - October 2020 - Present
 Students For Liberty - September 2020 - February 2024
 
 - Developed data models and dashboards to inform strategic decisions, resulting in a 20% increase in revenue and enhanced volunteer engagement by 15%.
-- Conducted statistical analysis using Python and R, predicting volunteer retention rates with 90% accuracy, directly impacting organizational planning.
+- Conducted statistical analysis using Python and R, predicting volunteer retention rates with 90% accuracy, directly impacting organisational planning.
 - Led survey design and data collection efforts to assess program effectiveness, driving improvements across global volunteer programs.
 
 ---
 
 ## EDUCATION
 
+**PhD candidate**, Jožef Stefan International Postgraduate School - Starting Date: October 2025
+- Part of the Marie Skłodowska-Curie DATAVYSTS network, where I develop trustworthy AI tools to enhance political participation and digital transparency.
+
 **Master in Sociology**, University of Niš - Graduation Date: October 2021
 
 - GPA: 9.29 (out of 10.00)
-- Science and Research Specialization
+- Science and Research Specialisation
 
 
-**Bachelor with Honors in Sociology**, University of Niš - Graduation Date: October 2020
+**Bachelor with Honours in Sociology**, University of Niš - Graduation Date: October 2020
 
 - GPA: 9.38 (out of 10.00)
 - Dositeja, Serbian Government Fund for Young Talents - Recognition of students earning a higher-than-average GPA
@@ -55,7 +64,7 @@ Students For Liberty - September 2020 - February 2024
 - **Statistical Software**: IBM SPSS, Jamovi
 - **Data Visualization**: Tableau, PowerBI, Looker
 - **Other Tools**: Git, Linux, Jira, Salesforce
-- **Research Skills**: Quantitative and qualitative analysis, Statistical modeling, Survey design, Data visualization
+- **Research Skills**: Quantitative and qualitative analysis, Statistical modelling, Survey design, Data visualisation
 
 ---
 
@@ -63,15 +72,15 @@ Students For Liberty - September 2020 - February 2024
 ## PROJECTS
 
 - [**NLP analysis of the Serbian parliament**](https://github.com/realvuk/serbian_parliament_nlp_analysis)
-	Analyzed topics, sentiments and speeches of the Serbian parliament sessions using NLP and Python. Work in progress.
+	Analysed topics, sentiments and speeches of the Serbian parliament sessions using NLP and Python. Work in progress.
 
 - [**Fashion MNIST Image Classification Project with PyTorch**](https://github.com/realvuk/Images-classification-CNN-with-PyTorch-on-Fashion-MNIST)
 	Implemented a Convolutional Neural Network (CNN) using PyTorch to classify images from the Fashion MNIST dataset, achieving high accuracy in image recognition.
 
 - [**Horizon**](https://inventculture.eu/wp-content/uploads/2023/05/D5.4_INVENT-report-Online-Cultural-Debates_v2.pdf#page=65.11)
-	Performed sentiment analysis and as part of the EU Horizon 2020 project, using R programming to scrape data from Twitter and examined and interpreted the data, creating comprehensive reports that gave stakeholders important information.
+	Performed sentiment analysis and, as part of the EU Horizon 2020 project, used R programming to scrape data from Twitter and examined and interpreted the data, creating comprehensive reports that gave stakeholders important information.
 
 - **[Hackathon Finalist (Dialogue for the Future)](https://bfpe.org/u-fokusu/bfpi-liderski-program-fokus/na-inovativan-nacin-do-vece-saradnje-u-regionu/)**
-	Researcher at the team that developed a platform concept to support victims of domestic violence “Nisi sama”
+	Researcher at the team that developed a platform concept to support victims of domestic violence, “Nisi sama”
 
 ---

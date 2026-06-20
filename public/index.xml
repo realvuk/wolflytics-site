@@ -14,29 +14,6 @@
     <lastBuildDate>Fri, 29 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Idea backlog</title>
-      <link>http://localhost:1313/drafts/ideas/</link>
-      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/drafts/ideas/</guid>
-      <description>&lt;h2 id=&#34;post-ideas-longer-essays&#34;&gt;Post ideas (longer essays)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;note-ideas-quick-atomic&#34;&gt;Note ideas (quick, atomic)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;A paper I read this week and one takeaway&lt;/li&gt;
-&lt;li&gt;Something that surprised me at the lab&lt;/li&gt;
-&lt;li&gt;A tool or workflow that saved me time&lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;reading-log-to-write-up-later&#34;&gt;Reading log (to write up later)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>Now</title>
       <link>http://localhost:1313/now/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
@@ -49,22 +26,20 @@
 &lt;li&gt;Building trustworthy AI tools to increase political participation.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;currently-reading&#34;&gt;Currently reading&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;(add a book or paper here)&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;Zgodbe o slovenskih znanstvenikih in znanstvenicah by Anton Gradišek&lt;/p&gt;
 &lt;h2 id=&#34;on-my-mind&#34;&gt;On my mind&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;(a question or idea you&amp;rsquo;re chewing on)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Fine-tuning Gemma 4&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;p&gt;If anything here overlaps with your own work, &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;reach out&lt;/a&gt; — I&amp;rsquo;d like to hear from you.&lt;/p&gt;</description>
+&lt;p&gt;If anything here overlaps with your own work, &lt;a href=&#34;http://localhost:1313/about/&#34;&gt;reach out&lt;/a&gt;, I&amp;rsquo;d like to hear from you.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Why this notes section exists</title>
       <link>http://localhost:1313/notes/why-this-notes-section-exists/</link>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/why-this-notes-section-exists/</guid>
-      <description>&lt;p&gt;I kept treating every post like an essay, so when the PhD got busy the blog went quiet for months. This is the fix: a place for short, rough notes I can write in five minutes. A paper I read, a thought, something that surprised me. No pressure to be polished — that&amp;rsquo;s what the &lt;a href=&#34;http://localhost:1313/posts/&#34;&gt;posts&lt;/a&gt; are for.&lt;/p&gt;
+      <description>&lt;p&gt;I kept treating every post like an essay, so when the PhD got busy, the blog went quiet for months. This is the fix: a place for short, rough notes I can write in five minutes. A paper I read, a thought, something that surprised me. No pressure to be polished, that&amp;rsquo;s what the &lt;a href=&#34;http://localhost:1313/posts/&#34;&gt;posts&lt;/a&gt; are for.&lt;/p&gt;
 &lt;p&gt;If a few notes start clustering around the same idea, that&amp;rsquo;s usually the seed of a real post.&lt;/p&gt;</description>
     </item>
     <item>
@@ -338,21 +313,6 @@ However, I rarely, if ever, see articles discussing how AI could influence our p
 &lt;p&gt;Natural Language Processing (NLP) has become a central pillar of AI, especially with the rise of Large Language Models (LLMs). At its core, an LLM is just NLP applied at scale—processing massive amounts of text to generate human-like responses.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>The internet has shattered two illusions</title>
-      <link>http://localhost:1313/posts/the-internet-has-shattered-two-illusions/</link>
-      <pubDate>Tue, 13 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-internet-has-shattered-two-illusions/</guid>
-      <description>&lt;p&gt;The internet has shattered two illusions:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;That ignorance is the result of a lack of information.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;That evil is the result of ignorance.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;</description>
-    </item>
-    <item>
       <title>Resume</title>
       <link>http://localhost:1313/resume/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
@@ -377,7 +337,7 @@ Students For Liberty - September 2020 - February 2024&lt;/p&gt;</description>
       <link>http://localhost:1313/about/</link>
       <pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Hi! I&amp;rsquo;m &lt;strong&gt;Vuk Dinic&lt;/strong&gt; — a social-science researcher using machine learning to study society, politics, and digital culture.&lt;/p&gt;
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m &lt;strong&gt;Vuk Dinic&lt;/strong&gt;, a social-science researcher using machine learning and AI to study society, politics, and digital culture.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m currently a PhD researcher in the &lt;a href=&#34;https://datavysts.eu/&#34;&gt;Datavysts&lt;/a&gt; Marie Skłodowska-Curie doctoral network, hosted at the &lt;a href=&#34;https://www.ijs.si/ijsw/V001/JSI&#34;&gt;Jožef Stefan Institute&lt;/a&gt; in Ljubljana, Slovenia. My project focuses on building &lt;strong&gt;trustworthy AI tools to increase political participation&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;This site is part blog, part lab notebook. You&amp;rsquo;ll find:&lt;/p&gt;
 &lt;ul&gt;
@@ -389,18 +349,19 @@ Students For Liberty - September 2020 - February 2024&lt;/p&gt;</description>
 &lt;h2 id=&#34;research-interests&#34;&gt;Research interests&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Computational social science &amp;amp; political discourse analysis&lt;/li&gt;
-&lt;li&gt;Natural language processing for low-resource languages (e.g. Serbian)&lt;/li&gt;
-&lt;li&gt;Trustworthy / explainable AI and its role in democratic participation&lt;/li&gt;
+&lt;li&gt;Natural language processing for low-resource languages (e.g. South Slavic Languages)&lt;/li&gt;
+&lt;li&gt;Trustworthy/explainable AI and its role in democratic participation&lt;/li&gt;
+&lt;li&gt;Human - Computer Interaction&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;elsewhere&#34;&gt;Elsewhere&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;GitHub — &lt;a href=&#34;https://github.com/realvuk&#34;&gt;@realvuk&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;LinkedIn — &lt;a href=&#34;https://www.linkedin.com/in/vukdinic/&#34;&gt;vukdinic&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;X — &lt;a href=&#34;https://x.com/realvuk&#34;&gt;@realvuk&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Google Scholar — &lt;em&gt;(add your profile link)&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;ORCID — &lt;em&gt;(add your ORCID link)&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Google Scholar — &lt;a href=&#34;https://scholar.google.com/citations?user=TG_G8AEAAAAJ&amp;amp;hl=en&#34;&gt;Vuk Dinić&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ORCID — &lt;a href=&#34;https://orcid.org/0000-0001-5486-1461&#34;&gt;Vuk Dinić&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;If your work touches any of the above, I&amp;rsquo;d be glad to connect or collaborate — reach out via any of the links above.&lt;/p&gt;</description>
+&lt;p&gt;If your work touches any of the above, I&amp;rsquo;d be glad to connect or collaborate. Reach out via any of the links above.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My opinion about sociology</title>
