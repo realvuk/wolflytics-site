@@ -1,0 +1,34 @@
+# Vuk Dinic
+
+> Vuk Dinic is a computational sociologist and data scientist. He is a PhD
+> researcher in the Datavysts Marie Skłodowska-Curie doctoral network, hosted at
+> the Jožef Stefan Institute in Ljubljana, Slovenia, where his work focuses on
+> building trustworthy AI tools to increase political participation. He writes
+> about politics, language, and power, explored through data science, natural
+> language processing, and machine learning.
+
+This site is part blog, part lab notebook. Content is authored by Vuk Dinic and
+licensed under the GNU GPL v3.
+
+## Key pages
+
+- [About](https://vukdinic.com/about/): Who Vuk Dinic is, his research interests, and how to reach him.
+- [Now](https://vukdinic.com/now/): What Vuk is working on, reading, and thinking about at the moment.
+- [Projects](https://vukdinic.com/projects/): Research and data-science work, including an NLP analysis of the Serbian Parliament.
+- [Posts](https://vukdinic.com/posts/): Essays on data, society, and politics.
+- [Notes](https://vukdinic.com/notes/): Shorter, rougher thoughts and reading notes.
+
+## Topics
+
+- Computational social science and political discourse analysis
+- Natural language processing for low-resource languages (e.g. South Slavic languages)
+- Trustworthy and explainable AI and its role in democratic participation
+- Human–computer interaction
+
+## Elsewhere
+
+- GitHub: https://github.com/realvuk
+- LinkedIn: https://www.linkedin.com/in/vukdinic/
+- Bluesky: https://bsky.app/profile/vukdinic.bsky.social
+- Google Scholar: https://scholar.google.com/citations?user=TG_G8AEAAAAJ&hl=en
+- ORCID: https://orcid.org/0000-0001-5486-1461

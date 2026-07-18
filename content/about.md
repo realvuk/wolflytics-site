@@ -27,7 +27,7 @@ This site is part blog, part lab notebook. You'll find:
 
 - GitHub — [@realvuk](https://github.com/realvuk)
 - LinkedIn — [vukdinic](https://www.linkedin.com/in/vukdinic/)
-- X — [@realvuk](https://x.com/realvuk)
+- Bluesky — [@vukdinic.bsky.social](https://bsky.app/profile/vukdinic.bsky.social)
 - Google Scholar — [Vuk Dinić](https://scholar.google.com/citations?user=TG_G8AEAAAAJ&hl=en)
 - ORCID — [Vuk Dinić](https://orcid.org/0000-0001-5486-1461)
 

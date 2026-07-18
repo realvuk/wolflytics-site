@@ -40,7 +40,7 @@ In recent weeks, I've been working with European Social Survey data (more on tha
 
 Machine learning helps us explore questions we've only scratched the surface of.
 
-I also recently completed an NLP project analyzing speeches from the [Serbian parliament](https://wolflytics.com/projects/serbian-parliamentary-nlp-analysis/), which produced interesting results.
+I also recently completed an NLP project analyzing speeches from the [Serbian parliament](/projects/serbian-parliamentary-nlp-analysis/), which produced interesting results.
 
 ## But There Are Three Big Problems
 

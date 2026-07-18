@@ -1,6 +1,6 @@
-baseURL: "https://wolflytics.com/"
+baseURL: "https://vukdinic.com/"
 languageCode: en-us
-title: wolflytics
+title: Vuk Dinic
 theme: ["PaperMod"]
 
 caches:
@@ -18,10 +18,16 @@ minify:
 
 params:
   env: production
-  title: Wolflytics
-  description: "Data science, Society. Powered by curiosity."
-  keywords: [Vuk Dinic, Data Science, Blog, Portfolio, Society, Wolflytics]
+  title: Vuk Dinic
+  description: "Vuk Dinic — computational sociologist & data scientist writing about politics, language, and power, explored through data science, NLP, and machine learning."
+  keywords: [Vuk Dinic, Computational Sociology, Data Science, Political Discourse, NLP, Machine Learning, Digital Culture, Blog, Portfolio]
   author: Vuk Dinic
+
+  # Homepage structured data: describe the site owner as a Person, not an
+  # Organization. This helps search engines and AI models identify who Vuk
+  # Dinic is and link the site to his other profiles (via socialIcons / sameAs).
+  schema:
+    publisherType: Person
   images: ["images/site-preview.jpg"]
   DateFormat: "2 January 2006"
   defaultTheme: dark
@@ -51,7 +57,7 @@ params:
     safari_pinned_tab: "safari-pinned-tab.svg"
 
   label:
-    text: "wolflytics"
+    text: "Vuk Dinic"
     icon: "/apple-touch-icon.png"
     iconHeight: 35
 
@@ -74,7 +80,7 @@ params:
 
   # Home page welcome
   homeInfoParams:
-    Title: "Welcome to wolflytics 🧠"
+    Title: "Hi, I'm Vuk 🧠"
     Content: >
       Exploring politics, language, and power through data.
       This is my digital lab — part blog, part portfolio, always evolving.
@@ -84,8 +90,8 @@ params:
       url: "https://github.com/realvuk"
     - name: linkedin
       url: "https://www.linkedin.com/in/vukdinic/"
-    - name: x
-      url: "https://x.com/realvuk"
+    - name: bluesky
+      url: "https://bsky.app/profile/vukdinic.bsky.social"
 
   cover:
     hidden: false
@@ -93,7 +99,7 @@ params:
     hiddenInSingle: false
 
   editPost:
-    URL: "https://github.com/realvuk/wolflytics/edit/main/content"
+    URL: "https://github.com/realvuk/wolflytics-site/edit/main/content"
     Text: "Suggest an edit"
     appendFilePath: true
 
